@@ -8,7 +8,7 @@ import torch
 from tracker import *
 model = torch.hub.load('ultralytics/yolov5', 'custom', 'best.pt', force_reload=True)
 
-cap = cv2.VideoCapture('human_detect_video.mp4')
+cap = cv2.VideoCapture('human_detection_video.mp4')
 
 # fourcc = cv2.VideoWriter_fourcc(*'XVID')
 # out = cv2.VideoWriter('output_video.avi', fourcc, 20.0, (1020, 500))
