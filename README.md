@@ -1,5 +1,12 @@
 # **Yolov5_Person Detection and Tracking** 
 
+
+
+https://github.com/Nbn03/Yolov5_Person-Detection-and-Tracking/assets/136473086/967041bc-ea3f-4525-8278-13cedef190df
+
+
+
+
 ## Overview
 This repository contains code for person detection and tracking using Yolov5 and OpenCV. The model is trained using a custom dataset and is designed to detect and track individuals in video frames, marking them with bounding boxes and counting the number of people crossing a specified line.
 
